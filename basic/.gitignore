@@ -44,3 +44,8 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+
+# I want ot ingore log files
+mylogs.log
+basic/ignore/
